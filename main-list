@@ -8,14 +8,25 @@ taboola.com
 ||taboola.com^
 
 time.mk##[id^=adpos]
+||time.mk/ads/*
 
 ! Whitelist
-@@||forbes.com^$document
-@@||nature.com^$document
-@@||cbsnews.com^$document
 @@||bloomberg.com^$document
+@@||cbsnews.com^$document
+@@||economist.com^$document
+@@||fivethirtyeight.com^$document
+@@||forbes.com^$document
+@@||nature.com^$document^$document
+@@||theatlantic.com^$document
+@@||washingtonpost.com^$document
 @@||whyevolutionistrue.wordpress.com^$document
-@@||jsfiddle.net^$document
-@@||torrentleech.org^$document
+@@||wired.com^$document
+@@||wsj.com^$document
+
+@@||afreesms.com^$document
+@@||elderscrolls.wikia.com^$document
 @@||jagledam.com^$document
+@@||jsfiddle.net^$document
+@@||nexusmods.com^$document
 @@||oxfordlearnersdictionaries.com^$document
+@@||torrentleech.org^$document
