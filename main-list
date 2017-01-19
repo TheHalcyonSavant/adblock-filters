@@ -1,15 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: TheHalcyonSavant additions
+
 taboola.com
 ||tinypass.com^$third-party
 ||taboola.com^
-
-time.mk##[id^=adpos]
-
-businessinsider.com##.ks-recommended
-##.slide__share-button
-##.slide__share-container
-##.slide__share-button--pinterest
-##.slide__share-button--facebook
-@@||businessinsider.com^$elemhide
 
 @@||forbes.com^$document
 @@||nature.com^$document
