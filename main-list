@@ -16,7 +16,7 @@ time.mk##[id^=adpos]
 @@||economist.com^$document
 @@||fivethirtyeight.com^$document
 @@||forbes.com^$document
-@@||nature.com^$document^$document
+@@||nature.com^$document
 @@||theatlantic.com^$document
 @@||washingtonpost.com^$document
 @@||whyevolutionistrue.wordpress.com^$document
