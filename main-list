@@ -2,10 +2,14 @@
 ! Version: 1
 ! Title: TheHalcyonSavant additions
 
+! Business Insider
 taboola.com
 ||tinypass.com^$third-party
 ||taboola.com^
 
+time.mk##[id^=adpos]
+
+! Whitelist
 @@||forbes.com^$document
 @@||nature.com^$document
 @@||cbsnews.com^$document
