@@ -1,11 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 1
 ! Title: TheHalcyonSavant additions
-
-! Business Insider
-taboola.com
-||tinypass.com^$third-party
-||taboola.com^
 
 time.mk##[id^=adpos]
 ||time.mk/ads/*
@@ -32,3 +26,12 @@ time.mk##[id^=adpos]
 @@||nexusmods.com^$document
 @@||oxfordlearnersdictionaries.com^$document
 @@||torrentleech.org^$document
+
+@@||businessinsider.com^$document
+@@||cnbc.com^$document
+@@||goal.com^$document
+@@||investing.com^$document
+@@||makeuseof.com^$document
+@@||marca.com^$document
+@@||mediaite.com^$document
+@@||msnbc.com^$document
